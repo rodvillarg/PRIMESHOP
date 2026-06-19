@@ -37,6 +37,3 @@ build/
 
 ### Mac OS ###
 .DS_Store
-
-### Herramientas (no forman parte del proyecto) ###
-.claude/
