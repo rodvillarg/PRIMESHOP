@@ -19,8 +19,6 @@ import org.springframework.stereotype.Component;
 import org.springframework.web.filter.OncePerRequestFilter;
 
 /**
- * Filtro que intercepta cada petición y valida el token del header.
- *
  * @author Jesús Rodrigo Villegas Argüelles - 261186
  */
 @Component
